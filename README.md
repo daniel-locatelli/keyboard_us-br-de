@@ -30,7 +30,7 @@
 <p>This was developed on Microsoft Keyboard Layout Creator <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134">MKLC 1.4</a>
 </br>You can learn how to use the MKLC 1.4 here: https://www.youtube.com/watch?v=HMDSJfwi0Kc
 </br>It was useful to look at this digital <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2">Brazilian ABNT2 layout</a> and the <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr">German layout</a>
-</br>I am currently using the Keyboard <a href="https://www.keychron.com/pages/keychron-k6-pro">Keychron K6 Pro</a> which can be further customized with QMK &amp; VIA<br /><a href="https://qmk.fm/">QMK Firmware</a><br /><a href="https://www.caniusevia.com/">VIA</a></p>
+</br>I am currently using the Keyboard <a href="https://www.keychron.com/pages/keychron-k6-pro">Keychron K6 Pro</a> which can be further customized with QMK &amp; VIA, however the layout should work in any US ANSI layout<br /><a href="https://qmk.fm/">QMK Firmware</a><br /><a href="https://www.caniusevia.com/">VIA</a></p>
 
 <h2>Installation</h2>
 
