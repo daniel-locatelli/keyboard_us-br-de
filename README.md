@@ -1,17 +1,17 @@
 # Polyglot Keyboard Layout for Windows
 
-Custom US keyboard layout converted to accept Portuguese and German special characters
+Custom US keyboard layout converted to accept Portuguese and German special characters.
+It uses dead keys to include everything. https://en.wikipedia.org/wiki/Dead_key
 
-This was developed on on Microsoft Keyboard Layout Creator (MKLC 1.4) https://www.microsoft.com/en-us/download/details.aspx?id=102134
+Included:
+ã ñ õ Ã Ñ Õ
+â ê î ô û Â Ê Î Ô Û
+á é í ó ú ý Á É Í Ó Ú Ý
+à è ì ò ù À È Ì Ò Ù
+ä ë ï ö ü ÿ Ä Ë Ï Ö Ü Ÿ
+¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ ≠ Σ € º ª ß ° ´ ~ ≤ ≥
+₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ ≈ § ` ¨
 
-It was useful to look at this digital Brazilian ABNT2 layout https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2
-
-And also the German layout https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr
-
-I am currently using the Keyboard Keychron K6 Pro https://www.keychron.com/pages/keychron-k6-pro
-Which can be further customized with QMK & VIA
-QMK Firmware https://qmk.fm/
-VIA https://www.caniusevia.com/
 
 Layout base
 
@@ -31,6 +31,17 @@ Layout ALTGR
 Layout Shift + ALTGR
 
 ![US-BR-DEShftAltGr](https://user-images.githubusercontent.com/15069239/229188192-72584a1d-2744-475e-8052-2fcdacbfa392.jpg)
+
+
+
+This was developed on on Microsoft Keyboard Layout Creator (MKLC 1.4) https://www.microsoft.com/en-us/download/details.aspx?id=102134
+It was useful to look at this digital Brazilian ABNT2 layout https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2
+And also the German layout https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr
+
+I am currently using the Keyboard Keychron K6 Pro https://www.keychron.com/pages/keychron-k6-pro
+Which can be further customized with QMK & VIA
+QMK Firmware https://qmk.fm/
+VIA https://www.caniusevia.com/
 
 
 How I got to this setup:
