@@ -35,7 +35,6 @@
 <h3>VIA</a></h3>
 <p>https://www.caniusevia.com/</p>
 <p>Initially, I tried to customize everything using the VIA website.<br />However it was quite basic, there was no option to add these custom Brazilian/German letters.<br />As it is based on the QMK firmware, I went to this page https://docs.qmk.fm/#/keycodes and tried to find a code to use on the VIA configurator.<br />I even tried to use a macro trick to get to ALT + XXXX https://en.wikipedia.org/wiki/Alt_code <br />As nothing worked, I moved to the QMK firmware.</p>
-<p>&nbsp;</p>
 
 <h3>QMK Firmware</a></h3>
 <p>https://qmk.fm/</p>
