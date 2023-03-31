@@ -29,10 +29,8 @@
 
 <h3>Tools used</h3>
 <p>This was developed on Microsoft Keyboard Layout Creator <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134">MKLC 1.4</a>
-<p>You can learn how to use the MKLC 1.4 here: which you can learn how to use here: https://www.youtube.com/watch?v=HMDSJfwi0Kc </p>
-<br />It was useful to look at this digital <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2">Brazilian ABNT2 layout</a> and the <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr">German layout</a></p>
-<p>I am currently using the Keyboard <a href="https://www.keychron.com/pages/keychron-k6-pro">Keychron K6 Pro</a><br />Which can be further customized with QMK &amp; VIA
-<br /><a href="https://qmk.fm/">QMK Firmware</a><br /><a href="https://www.caniusevia.com/">VIA</a></p>
+<p>You can learn how to use the MKLC 1.4 here: which you can learn how to use here: https://www.youtube.com/watch?v=HMDSJfwi0Kc </p> <br />It was useful to look at this digital <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2">Brazilian ABNT2 layout</a> and the <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr">German layout</a></p>
+<p>I am currently using the Keyboard <a href="https://www.keychron.com/pages/keychron-k6-pro">Keychron K6 Pro</a><br />Which can be further customized with QMK &amp; VIA<br /><a href="https://qmk.fm/">QMK Firmware</a><br /><a href="https://www.caniusevia.com/">VIA</a></p>
 <h2><br />How I got to this setup</h2>
 
 <h3>VIA</a></h3>
