@@ -1,2 +1,2 @@
-# polyglot-keyboard_us-br-de
-Custom US keyboard layout for Portuguese plus German speakers
+# Polyglot Keyboard Layout
+Custom US keyboard layout converted to accept Portuguese and German special characters
