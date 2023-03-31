@@ -10,13 +10,21 @@
 <p>&sup1; &sup2; &sup3; ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ &ne; &Sigma; &euro; &ordm; &ordf; &szlig; &deg; &acute; ~ &le; &ge;</p>
 <p>₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ &asymp; &sect; ` &uml;</p>
 <h3><br />Layout base</h3>
+
 ![US-BR-DE](https://user-images.githubusercontent.com/15069239/229187806-0d8ab97b-0b77-48b5-a82b-8f14525c122a.jpg)
+
 <h3><br />Layout Shift</h3>
+
 ![US-BR-DEShft](https://user-images.githubusercontent.com/15069239/229187934-41299e41-3ed6-4318-872e-fe68c0e4b6fc.jpg)
+
 <h3><br />Layout ALTGR</h3>
+
 ![US-BR-DEAltGr](https://user-images.githubusercontent.com/15069239/229188048-de15781a-ba96-4156-afd5-a02f38f0b05c.jpg)
+
 <h3><br />Layout Shift + ALTGR</h3>
+
 ![US-BR-DEShftAltGr](https://user-images.githubusercontent.com/15069239/229188192-72584a1d-2744-475e-8052-2fcdacbfa392.jpg)
+
 <p>&nbsp;</p>
 
 <h3>Tools used</h3>
