@@ -1,7 +1,11 @@
 # Polyglot Keyboard Layout for Windows
+
 Custom US keyboard layout converted to accept Portuguese and German special characters
+
 This was developed on on Microsoft Keyboard Layout Creator (MKLC 1.4) https://www.microsoft.com/en-us/download/details.aspx?id=102134
+
 It was useful to look at this digital Brazilian ABNT2 layout https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2
+
 And also the German layout https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr
 
 I am currently using the Keyboard Keychron K6 Pro https://www.keychron.com/pages/keychron-k6-pro
