@@ -26,7 +26,8 @@
 <h3><a href="https://www.caniusevia.com/">VIA</a></h3>
 <p>Initially, I tried to customize everything using the VIA website.<br />However it was quite basic, there was no option to add these custom Brazilian/German letters.<br />As it is based on the QMK firmware, I went to this page https://docs.qmk.fm/#/keycodes and tried to find a code to use on the VIA configurator.<br />I even tried to use a macro trick to get to ALT + XXXX https://en.wikipedia.org/wiki/Alt_code <br />As nothing worked, I moved to the QMK firmware.</p>
 <p>&nbsp;</p>
-<h3><a href="https://qmk.fm/">QMK Firmware</a></h3>
+<h3>QMK Firmware</a></h3>
+<p>https://qmk.fm/</p>
 <p>This tool is quite powerful, you can change almost everything on your keyboard.<br />So I managed to clone the Keychron K6 Pro repository. Which was a pain, because their Bluetooth repository is not on the same branch as the rest of QMK Firmware.<br />At first, I downloaded the whole repository with all available keyboard firmware (1GB+). Then I learned how to download just a repository branch (thanks ChatGPT).<br />This firmware is based in the C language, for that, you have to either install the MSYS or their QMK_MSYS, which in this case makes things a bit easier.<br />Updating the keyboard functions was quite easy, I just had to edit the "keymap.c". I also used their <a href="https://docs.qmk.fm/#/reference_keymap_extras">language-specific Keycodes</a>.<br />After that, I changed the keyboard to access the special character I wanted and flashed the firmware.<br />After all that I finally discovered that it doesn't matter how the firmware is configured if the windows language input is not configured properly.<br />It means that I would have to alternate the language input between US, ABNT2, and DE in the taskbar, which is exactly what I was trying to avoid.</p>
 <h2>Conclusions</h2>
 <ul>
