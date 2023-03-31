@@ -2,31 +2,64 @@
 <h1>Polyglot Keyboard Layout for Windows</h1>
 <p>Custom US keyboard layout converted to accept Portuguese and German special characters.</p>
 <h3>It uses <a href="https://en.wikipedia.org/wiki/Dead_key">dead keys</a> to include:</h3>
-<p>&atilde; &ntilde; &otilde; &Atilde; &Ntilde; &Otilde; &acirc; &ecirc; &icirc; &ocirc; &ucirc; &Acirc; &Ecirc; &Icirc; &Ocirc; &Ucirc; &aacute; &eacute; &iacute; &oacute; &uacute; &yacute; &Aacute; &Eacute; &Iacute; &Oacute; &Uacute; &Yacute; &agrave; &egrave; &igrave; &ograve; &ugrave; &Agrave; &Egrave; &Igrave; &Ograve; &Ugrave; &auml; &euml; &iuml; &ouml; &uuml; &yuml; &Auml; &Euml; &Iuml; &Ouml; &Uuml; &Yuml; &sup1; &sup2; &sup3; ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ &ne; &Sigma; &euro; &ordm; &ordf; &szlig; &deg; &le; &ge; ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ &asymp; &sect;</p>
+<p>&atilde; &ntilde; &otilde; &Atilde; &Ntilde; &Otilde; &acirc; &ecirc; &icirc; &ocirc; &ucirc; &Acirc; &Ecirc; &Icirc; &Ocirc; &Ucirc; &aacute; &eacute; &iacute; &oacute; &uacute; &yacute; &Aacute; &Eacute; &Iacute; &Oacute; &Uacute; &Yacute; &agrave; &egrave; &igrave; &ograve; &ugrave; &Agrave; &Egrave; &Igrave; &Ograve; &Ugrave; &auml; &euml; &iuml; &ouml; &uuml; &yuml; &Auml; &Euml; &Iuml; &Ouml; &Uuml; &Yuml; ç Ç &sup1; &sup2; &sup3; ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ &ne; &Sigma; &euro; &ordm; &ordf; &szlig; &deg; &le; &ge; ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ &asymp; &sect;</p>
 
 <h3><br />Layout base</h3>
 
-![US-BR-DE](https://user-images.githubusercontent.com/15069239/229187806-0d8ab97b-0b77-48b5-a82b-8f14525c122a.jpg)
+![US-BR-DE](https://user-images.githubusercontent.com/15069239/229212255-5c38a18c-41e2-410a-a29d-4f6f25439ccb.jpg)
+
 
 <h3><br />Layout Shift</h3>
 
-![US-BR-DEShft](https://user-images.githubusercontent.com/15069239/229187934-41299e41-3ed6-4318-872e-fe68c0e4b6fc.jpg)
+![US-BR-DEShft](https://user-images.githubusercontent.com/15069239/229212303-c9859f00-33d8-4cd6-a2a7-47bcb3bfe6b4.jpg)
+
 
 <h3><br />Layout ALTGR</h3>
 
-![US-BR-DEAltGr](https://user-images.githubusercontent.com/15069239/229188048-de15781a-ba96-4156-afd5-a02f38f0b05c.jpg)
+![US-BR-DEAltGr](https://user-images.githubusercontent.com/15069239/229212329-81509465-ccb5-4dde-a507-35b00e00b8f8.jpg)
+
 
 <h3><br />Layout Shift + ALTGR</h3>
 
-![US-BR-DEShftAltGr](https://user-images.githubusercontent.com/15069239/229188192-72584a1d-2744-475e-8052-2fcdacbfa392.jpg)
+![US-BR-DEShftAltGr](https://user-images.githubusercontent.com/15069239/229212377-24dbdde8-ee25-4b65-8fc7-d00ffae62354.jpg)
+
 
 <p>&nbsp;</p>
 
-<h3>Tools used</h3>
+<h2>Tools used</h2>
 <p>This was developed on Microsoft Keyboard Layout Creator <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134">MKLC 1.4</a>
 </br>You can learn how to use the MKLC 1.4 here: which you can learn how to use here: https://www.youtube.com/watch?v=HMDSJfwi0Kc
 </br>It was useful to look at this digital <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdbr_2">Brazilian ABNT2 layout</a> and the <a href="https://learn.microsoft.com/en-us/globalization/keyboards/kbdgr">German layout</a>
 </br>I am currently using the Keyboard <a href="https://www.keychron.com/pages/keychron-k6-pro">Keychron K6 Pro</a> which can be further customized with QMK &amp; VIA<br /><a href="https://qmk.fm/">QMK Firmware</a><br /><a href="https://www.caniusevia.com/">VIA</a></p>
+
+<h2>Installation</h2>
+
+![Tutorial01](https://user-images.githubusercontent.com/15069239/229212620-375279e6-5e2b-4795-a0fd-cbbcd7cc35c0.jpg)
+
+
+![Tutorial02](https://user-images.githubusercontent.com/15069239/229212632-1d79d91e-52c5-43e0-bb84-183344144971.jpg)
+
+
+![Tutorial03](https://user-images.githubusercontent.com/15069239/229212651-be84f442-a285-43fa-a5de-a84c64d004db.jpg)
+
+
+![Tutorial04](https://user-images.githubusercontent.com/15069239/229212661-8f005a13-51d1-46a8-b0cb-8de35f2e26eb.jpg)
+
+
+![Tutorial05-trim](https://user-images.githubusercontent.com/15069239/229213347-fe9fad6f-69b8-460d-bdbb-6e19949b9b9e.jpg)
+
+
+![Tutorial06-trim](https://user-images.githubusercontent.com/15069239/229213373-3bd79d17-53c4-42c0-957a-4ee66827a6e8.jpg)
+
+
+![Tutorial07-trim](https://user-images.githubusercontent.com/15069239/229213449-469e2e8e-6788-4c7c-ba39-37577b7989fa.jpg)
+
+
+![Tutorial08-trim](https://user-images.githubusercontent.com/15069239/229213477-b5add394-75df-41d0-8d4c-5d1856b699e0.jpg)
+
+
+![Tutorial09](https://user-images.githubusercontent.com/15069239/229212778-f2a1cc3d-13a3-450d-bd9c-29c23b70b00f.jpg)
+
 
 <h2><br />How I got to this setup</h2>
 
