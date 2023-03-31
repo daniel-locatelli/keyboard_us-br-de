@@ -4,12 +4,19 @@ Custom US keyboard layout converted to accept Portuguese and German special char
 It uses dead keys to include everything. https://en.wikipedia.org/wiki/Dead_key
 
 Included:
+
 ã ñ õ Ã Ñ Õ
+
 â ê î ô û Â Ê Î Ô Û
+
 á é í ó ú ý Á É Í Ó Ú Ý
+
 à è ì ò ù À È Ì Ò Ù
+
 ä ë ï ö ü ÿ Ä Ë Ï Ö Ü Ÿ
+
 ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ ≠ Σ € º ª ß ° ´ ~ ≤ ≥
+
 ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ ≈ § ` ¨
 
 
