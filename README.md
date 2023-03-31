@@ -9,6 +9,19 @@ Which can be further customized with QMK & VIA
 QMK Firmware https://qmk.fm/
 VIA https://www.caniusevia.com/
 
+Layout base
+![US-BR-DE](https://user-images.githubusercontent.com/15069239/229187806-0d8ab97b-0b77-48b5-a82b-8f14525c122a.jpg)
+
+Layout Shift
+![US-BR-DEShft](https://user-images.githubusercontent.com/15069239/229187934-41299e41-3ed6-4318-872e-fe68c0e4b6fc.jpg)
+
+Layout ALTGR
+![US-BR-DEAltGr](https://user-images.githubusercontent.com/15069239/229188048-de15781a-ba96-4156-afd5-a02f38f0b05c.jpg)
+
+Layout Shift + ALTGR
+![US-BR-DEShftAltGr](https://user-images.githubusercontent.com/15069239/229188192-72584a1d-2744-475e-8052-2fcdacbfa392.jpg)
+
+
 How I got to this setup:
 VIA Website
 Initially I tried to customize everything using the VIA website.
