@@ -1,6 +1,6 @@
 <!-- #######  HEY, I AM THE SOURCE EDITOR! #########-->
 <h1>Polyglot Keyboard Layout for Windows</h1>
-<p>Custom US keyboard layout converted to accept Portuguese and German special characters.</p>
+<p>US ANSI keyboard layout converted to accept Portuguese and German special characters.</p>
 <h3>It uses <a href="https://en.wikipedia.org/wiki/Dead_key">dead keys</a> to include:</h3>
 <p>&atilde; &ntilde; &otilde; &Atilde; &Ntilde; &Otilde; &acirc; &ecirc; &icirc; &ocirc; &ucirc; &Acirc; &Ecirc; &Icirc; &Ocirc; &Ucirc; &aacute; &eacute; &iacute; &oacute; &uacute; &yacute; &Aacute; &Eacute; &Iacute; &Oacute; &Uacute; &Yacute; &agrave; &egrave; &igrave; &ograve; &ugrave; &Agrave; &Egrave; &Igrave; &Ograve; &Ugrave; &auml; &euml; &iuml; &ouml; &uuml; &yuml; &Auml; &Euml; &Iuml; &Ouml; &Uuml; &Yuml; ç Ç &sup1; &sup2; &sup3; ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ &ne; &Sigma; &euro; &ordm; &ordf; &szlig; &deg; &le; &ge; ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ &asymp; &sect;</p>
 
