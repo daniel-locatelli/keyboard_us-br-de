@@ -133,6 +133,15 @@ It uses dead keys to include all the other characters, for example, <kbd>AltGr</
 
 </details>
 
+## Uninstalling
+
+If you want to modify the layout but want to keep the same name, then you need to do three things:
+* Remove the layout from your language settings
+* Uninstall your laguage from the system
+* Delete the folder generated for the DLL
+
+Only after these previous steps you will be able to use the same name for the layout, and keep everything nice and clean.
+
 ## How I got to this setup
 
 ### VIA
